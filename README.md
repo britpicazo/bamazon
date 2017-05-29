@@ -4,6 +4,5 @@ bamazon-manager.js allows the user to do one of four things:
   - View Products for Sale: A table is provided of available inventory
   - View Low Inventory: Any item whose quantity is less than 5 is shown
   - Add to Inventory: User may add to any item currently in the database
-  - Add New Product: User can add a whole new item, and are prompted for product name, department name, price, and the      
-    quantity to add to the database
+  - Add New Product: User can add a whole new item, and are prompted for product name, department name, price, and the quantity to add to the database
   
